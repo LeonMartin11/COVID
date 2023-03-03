@@ -2,7 +2,7 @@
 spring:
   datasource:
     username: root
-    url: jdbc:mysql://36.134.51.51/covid?useUnicode=true&characterEncoding=UTF-8&serverTimezone=Asia/Shanghai
+    url: jdbc:mysql://36.134.51.51/nihaohahahaha?useUnicode=true&characterEncoding=UTF-8&serverTimezone=Asia/Shanghai
     password: 123456
     driver-class-name: com.mysql.cj.jdbc.Driver
 
