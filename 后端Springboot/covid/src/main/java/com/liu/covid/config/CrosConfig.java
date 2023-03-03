@@ -15,5 +15,9 @@ public class CrosConfig implements WebMvcConfigurer {
                 .maxAge(3600)
                 .allowedHeaders("*");
     }
+
+    public static void main(String[] args) {
+        System.out.println("hello git444");
+    }
 }
 
