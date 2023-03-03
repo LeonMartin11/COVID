@@ -19,7 +19,7 @@ public class CrosConfig implements WebMvcConfigurer {
     public static void main(String[] args) {
         System.out.println("hello git444");
         System.out.println("master test");
-        System.out.println("hotfix test!");
+        System.out.println("hotfix!");
     }
 }
 
